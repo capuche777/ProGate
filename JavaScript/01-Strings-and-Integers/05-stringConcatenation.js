@@ -1,3 +1,4 @@
+
 // Concatenate "I am " and "Ken the Ninja", then print it
 console.log("I am" + " Ken the Ninja");
 
